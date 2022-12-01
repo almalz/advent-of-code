@@ -14,6 +14,14 @@ Fork it/clone it, and get started!
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Day 01</td>
+      <td>
+        <a href="https://github.com/pathto/repo/tree/main/src/01">
+          <img src="https://badgen.net/badge/01/%E2%98%85%E2%98%85/green" alt="" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 <!-- Auto completion:END -->
